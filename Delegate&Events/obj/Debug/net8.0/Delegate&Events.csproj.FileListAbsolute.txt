@@ -1,0 +1,14 @@
+G:\Plaining 2025\Delegate&Events\bin\Debug\net8.0\Delegate&Events.exe
+G:\Plaining 2025\Delegate&Events\bin\Debug\net8.0\Delegate&Events.deps.json
+G:\Plaining 2025\Delegate&Events\bin\Debug\net8.0\Delegate&Events.runtimeconfig.json
+G:\Plaining 2025\Delegate&Events\bin\Debug\net8.0\Delegate&Events.dll
+G:\Plaining 2025\Delegate&Events\bin\Debug\net8.0\Delegate&Events.pdb
+G:\Plaining 2025\Delegate&Events\obj\Debug\net8.0\Delegate&Events.GeneratedMSBuildEditorConfig.editorconfig
+G:\Plaining 2025\Delegate&Events\obj\Debug\net8.0\Delegate&Events.AssemblyInfoInputs.cache
+G:\Plaining 2025\Delegate&Events\obj\Debug\net8.0\Delegate&Events.AssemblyInfo.cs
+G:\Plaining 2025\Delegate&Events\obj\Debug\net8.0\Delegate&Events.csproj.CoreCompileInputs.cache
+G:\Plaining 2025\Delegate&Events\obj\Debug\net8.0\Delegate&Events.dll
+G:\Plaining 2025\Delegate&Events\obj\Debug\net8.0\refint\Delegate&Events.dll
+G:\Plaining 2025\Delegate&Events\obj\Debug\net8.0\Delegate&Events.pdb
+G:\Plaining 2025\Delegate&Events\obj\Debug\net8.0\Delegate&Events.genruntimeconfig.cache
+G:\Plaining 2025\Delegate&Events\obj\Debug\net8.0\ref\Delegate&Events.dll

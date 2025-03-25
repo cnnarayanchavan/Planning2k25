@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Plaining 2025\\Delegate\u0026Events\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92EB7B9B-C83D-4404-BA24-21295DD95218}|Delegate\u0026Events.csproj|g:\\plaining 2025\\delegate\u0026events\\eventsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EB7B9B-C83D-4404-BA24-21295DD95218}|Delegate\u0026Events.csproj|solutionrelative:eventsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EB7B9B-C83D-4404-BA24-21295DD95218}|Delegate\u0026Events.csproj|g:\\plaining 2025\\delegate\u0026events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EB7B9B-C83D-4404-BA24-21295DD95218}|Delegate\u0026Events.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventsExample.cs",
+              "DocumentMoniker": "G:\\Plaining 2025\\Delegate\u0026Events\\EventsExample.cs",
+              "RelativeDocumentMoniker": "EventsExample.cs",
+              "ToolTip": "G:\\Plaining 2025\\Delegate\u0026Events\\EventsExample.cs",
+              "RelativeToolTip": "EventsExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:02:20.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Plaining 2025\\Delegate\u0026Events\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\Plaining 2025\\Delegate\u0026Events\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T17:49:16.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
