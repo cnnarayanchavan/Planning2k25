@@ -1,0 +1,14 @@
+G:\Plaining 2025\Collection&LINQ\bin\Debug\net8.0\Collection&LINQ.exe
+G:\Plaining 2025\Collection&LINQ\bin\Debug\net8.0\Collection&LINQ.deps.json
+G:\Plaining 2025\Collection&LINQ\bin\Debug\net8.0\Collection&LINQ.runtimeconfig.json
+G:\Plaining 2025\Collection&LINQ\bin\Debug\net8.0\Collection&LINQ.dll
+G:\Plaining 2025\Collection&LINQ\bin\Debug\net8.0\Collection&LINQ.pdb
+G:\Plaining 2025\Collection&LINQ\obj\Debug\net8.0\Collection&LINQ.GeneratedMSBuildEditorConfig.editorconfig
+G:\Plaining 2025\Collection&LINQ\obj\Debug\net8.0\Collection&LINQ.AssemblyInfoInputs.cache
+G:\Plaining 2025\Collection&LINQ\obj\Debug\net8.0\Collection&LINQ.AssemblyInfo.cs
+G:\Plaining 2025\Collection&LINQ\obj\Debug\net8.0\Collection&LINQ.csproj.CoreCompileInputs.cache
+G:\Plaining 2025\Collection&LINQ\obj\Debug\net8.0\Collection&LINQ.dll
+G:\Plaining 2025\Collection&LINQ\obj\Debug\net8.0\refint\Collection&LINQ.dll
+G:\Plaining 2025\Collection&LINQ\obj\Debug\net8.0\Collection&LINQ.pdb
+G:\Plaining 2025\Collection&LINQ\obj\Debug\net8.0\Collection&LINQ.genruntimeconfig.cache
+G:\Plaining 2025\Collection&LINQ\obj\Debug\net8.0\ref\Collection&LINQ.dll
