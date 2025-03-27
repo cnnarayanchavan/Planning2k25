@@ -12,3 +12,18 @@ G:\Plaining 2025\Collection&LINQ\obj\Debug\net8.0\refint\Collection&LINQ.dll
 G:\Plaining 2025\Collection&LINQ\obj\Debug\net8.0\Collection&LINQ.pdb
 G:\Plaining 2025\Collection&LINQ\obj\Debug\net8.0\Collection&LINQ.genruntimeconfig.cache
 G:\Plaining 2025\Collection&LINQ\obj\Debug\net8.0\ref\Collection&LINQ.dll
+G:\Planning2025\Collection&LINQ\bin\Debug\net8.0\Collection&LINQ.exe
+G:\Planning2025\Collection&LINQ\bin\Debug\net8.0\Collection&LINQ.deps.json
+G:\Planning2025\Collection&LINQ\bin\Debug\net8.0\Collection&LINQ.runtimeconfig.json
+G:\Planning2025\Collection&LINQ\bin\Debug\net8.0\Collection&LINQ.dll
+G:\Planning2025\Collection&LINQ\bin\Debug\net8.0\Collection&LINQ.pdb
+G:\Planning2025\Collection&LINQ\obj\Debug\net8.0\Collection&LINQ.GeneratedMSBuildEditorConfig.editorconfig
+G:\Planning2025\Collection&LINQ\obj\Debug\net8.0\Collection&LINQ.AssemblyInfoInputs.cache
+G:\Planning2025\Collection&LINQ\obj\Debug\net8.0\Collection&LINQ.AssemblyInfo.cs
+G:\Planning2025\Collection&LINQ\obj\Debug\net8.0\Collection&LINQ.csproj.CoreCompileInputs.cache
+G:\Planning2025\Collection&LINQ\obj\Debug\net8.0\Collection&LINQ.sourcelink.json
+G:\Planning2025\Collection&LINQ\obj\Debug\net8.0\Collection&LINQ.dll
+G:\Planning2025\Collection&LINQ\obj\Debug\net8.0\refint\Collection&LINQ.dll
+G:\Planning2025\Collection&LINQ\obj\Debug\net8.0\Collection&LINQ.pdb
+G:\Planning2025\Collection&LINQ\obj\Debug\net8.0\Collection&LINQ.genruntimeconfig.cache
+G:\Planning2025\Collection&LINQ\obj\Debug\net8.0\ref\Collection&LINQ.dll

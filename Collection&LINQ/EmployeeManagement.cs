@@ -10,13 +10,19 @@ namespace Collection_LINQ
     {
         //we are going to store data into Dictionary for storing employee data
         public static Dictionary<int, Employee> EmpDict = new Dictionary<int, Employee>();
-       
+
 
         //first method to add employee data
-        public  static void AddEmployee(Employee employee)
+        public static int EmployeeIDCounter = 1;  // Initialize the counter
+
+        public static void AddEmployee(Employee employee)
         {
+            employee.EmployeeID = EmployeeIDCounter++;  // Assign and increment the ID
             EmpDict.Add(employee.EmployeeID, employee);
+
+            Console.WriteLine($"✅ Employee {employee.EmployeeName} added successfully with ID: {employee.EmployeeID}");
         }
+
 
 
         //second method to view employee data

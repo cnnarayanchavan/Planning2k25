@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Plaining 2025\\Collection&LINQ\\Collection&LINQ.csproj": {}
+    "G:\\Planning2025\\Collection&LINQ\\Collection&LINQ.csproj": {}
   },
   "projects": {
-    "G:\\Plaining 2025\\Collection&LINQ\\Collection&LINQ.csproj": {
+    "G:\\Planning2025\\Collection&LINQ\\Collection&LINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Plaining 2025\\Collection&LINQ\\Collection&LINQ.csproj",
+        "projectUniqueName": "G:\\Planning2025\\Collection&LINQ\\Collection&LINQ.csproj",
         "projectName": "Collection&LINQ",
-        "projectPath": "G:\\Plaining 2025\\Collection&LINQ\\Collection&LINQ.csproj",
+        "projectPath": "G:\\Planning2025\\Collection&LINQ\\Collection&LINQ.csproj",
         "packagesPath": "C:\\Users\\cnnar\\.nuget\\packages\\",
-        "outputPath": "G:\\Plaining 2025\\Collection&LINQ\\obj\\",
+        "outputPath": "G:\\Planning2025\\Collection&LINQ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

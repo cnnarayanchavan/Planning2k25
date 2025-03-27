@@ -41,7 +41,6 @@ public class Program
 
                     //Add employee data to dictionary
                     EmployeeManagement.AddEmployee(employee);
-                    Console.WriteLine(" \u2705 Employee Added Successfully!");
                     //Check = false;
                     break;
 

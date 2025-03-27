@@ -18,11 +18,13 @@ namespace Collection_LINQ
 
         public void Display()
         {
-            Console.WriteLine($"Employee ID: {EmployeeID}");
-            Console.WriteLine($"Name: {EmployeeName}");
-            Console.WriteLine($"Gender: {Gender}");
-            Console.WriteLine($"Department: {Department}");
-            Console.WriteLine($"Salary: {Salary}");
+            Console.WriteLine($"🆔 Employee ID: {EmployeeID}");
+            Console.WriteLine($"👤 Name: {EmployeeName}");
+            Console.WriteLine($"🚻 Gender: {Gender}");
+            Console.WriteLine($"🏢 Department: {Department}");
+            Console.WriteLine($"💰 Salary: {Salary:C}"); // ":C" formats salary as currency
+            Console.WriteLine("———————————————————————");
         }
+
     }
 }

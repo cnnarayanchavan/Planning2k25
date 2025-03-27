@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "G:\\Plaining 2025\\Collection\u0026LINQ\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{04CF4748-FBF8-44CA-82F2-B8DCC921038D}|Collection\u0026LINQ.csproj|g:\\plaining 2025\\collection\u0026linq\\dummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CF4748-FBF8-44CA-82F2-B8DCC921038D}|Collection\u0026LINQ.csproj|solutionrelative:dummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CF4748-FBF8-44CA-82F2-B8DCC921038D}|Collection\u0026LINQ.csproj|g:\\plaining 2025\\collection\u0026linq\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CF4748-FBF8-44CA-82F2-B8DCC921038D}|Collection\u0026LINQ.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{04CF4748-FBF8-44CA-82F2-B8DCC921038D}|Collection\u0026LINQ.csproj|g:\\plaining 2025\\collection\u0026linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04CF4748-FBF8-44CA-82F2-B8DCC921038D}|Collection\u0026LINQ.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04CF4748-FBF8-44CA-82F2-B8DCC921038D}|Collection\u0026LINQ.csproj|g:\\plaining 2025\\collection\u0026linq\\employeemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CF4748-FBF8-44CA-82F2-B8DCC921038D}|Collection\u0026LINQ.csproj|solutionrelative:employeemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dummy.cs",
+              "DocumentMoniker": "G:\\Plaining 2025\\Collection\u0026LINQ\\Dummy.cs",
+              "RelativeDocumentMoniker": "Dummy.cs",
+              "ToolTip": "G:\\Plaining 2025\\Collection\u0026LINQ\\Dummy.cs*",
+              "RelativeToolTip": "Dummy.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:54:43.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\Plaining 2025\\Collection\u0026LINQ\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "G:\\Plaining 2025\\Collection\u0026LINQ\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwDEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T13:58:46.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeManagement.cs",
+              "DocumentMoniker": "G:\\Plaining 2025\\Collection\u0026LINQ\\EmployeeManagement.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.cs",
+              "ToolTip": "G:\\Plaining 2025\\Collection\u0026LINQ\\EmployeeManagement.cs*",
+              "RelativeToolTip": "EmployeeManagement.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:55:19.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "G:\\Plaining 2025\\Collection\u0026LINQ\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "G:\\Plaining 2025\\Collection\u0026LINQ\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:06:08.37Z",
               "EditorCaption": ""
             }
           ]
